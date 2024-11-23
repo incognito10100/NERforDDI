@@ -157,6 +157,13 @@ The model outputs the following metrics:
 
 ---
 
+## References
+
+1. Segura-Bedmar, I., & others. (2023). **DDICorpus: Repository for Drug-Drug Interaction Dataset and Analysis**. Retrieved from [https://github.com/isegura/DDICorpus](https://github.com/isegura/DDICorpus)  
+2. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 30. [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
+
+---
+
 ## License
 
 This project is open-source and licensed under the MIT License.
